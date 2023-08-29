@@ -5,9 +5,9 @@
 
 - 📖 Todos os meus projetos do app Inventor estão disponíveis <a href="https://github.com/lissacss/alicia_appinventor_projects/blob/main/README.md"> aqui</a>
 
-- 👨‍💻  Atualmente faço parte do grupo de Aprendis Legal da <a href="http://www.camarasaogoncalo.mg.gov.br/"> Câmara Municipal de São Gonçalo do Rio Abaixo</a> 
+- 👨‍💻  Atualmente trabalho como Aprendiz legal na <a href="http://www.camarasaogoncalo.mg.gov.br/"> Câmara Municipal de São Gonçalo do Rio Abaixo</a> 
 
-- 📌 Moro na cidade <a hrerf="https://www.google.com/maps/place/S%C3%A3o+Gon%C3%A7alo+do+Rio+Abaixo+-+MG/@-19.797493,-43.3140065,11z/data=!3m1!4b1!4m6!3m5!1s0xa5b311780618b7:0x7e8518aecc3cf780!8m2!3d-19.8226405!4d-43.3663742!16s%2Fm%2F04qb5lc?entry=ttu"> São Gonçalo do Rio Abaixo</a>
+- 📌 Moro na cidade <a hrerf="https://www.google.com/maps/place/S%C3%A3o+Gon%C3%A7alo+do+Rio+Abaixo++MG/@-19.797493,-43.3140065,11z/data=!3m1!4b1!4m6!3m5!1s0xa5b311780618b7:0x7e8518aecc3cf780!8m2!3d-19.8226405!4d-43.3663742!16s%2Fm%2F04qb5lc?entry=ttu"> São Gonçalo do Rio Abaixo</a>
 
 - 📫 Como entrar em contato comigo
 
