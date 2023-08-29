@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre **Informática para Internet** no<a href="https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/" > SENAI</a>
 
-- 📖 Todos os meus projetos do app Inventor estão disponíveis [aqui](https://github.com/vivek9patel?tab=repositories)
+- 📖 Todos os meus projetos do app Inventor estão disponíveis <a href="https://github.com/lissacss/alicia_appinventor_projects/blob/main/README.md"> aqui</a>
 
 - 👨‍💻  Atualmente faço parte do grupo de Aprendis Legal da <a href="http://www.camarasaogoncalo.mg.gov.br/"> Câmara Municipal de São Gonçalo do Rio Abaixo</a> 
 
